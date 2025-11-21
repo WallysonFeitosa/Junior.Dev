@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>junior.dev</title>
+</head>
+<body>
+    <header>
+        <h1>Junior.Dev</h1>
+        <div>
+            <input type="text" placeholder="Busque por vagas, linguagens, etc...">
+            <button id="botao-busca" onclick="iniciarBusca()">Buscar</button>
+        </div>
+    </header>
+
+    <div class="filtros">
+        <fieldset>
+            <legend>Tipo de Vaga</legend>
+            <label><input type="radio" name="tipo" value="remoto"> Remoto</label>
+            <label><input type="radio" name="tipo" value="presencial"> Presencial</label>
+            <label><input type="radio" name="tipo" value="hibrido"> Híbrido</label>
+        </fieldset>
+        <fieldset>
+            <legend>Nível</legend>
+            <label><input type="radio" name="nivel" value="júnior"> Júnior</label>
+            <label><input type="radio" name="nivel" value="estágio"> Estágio</label>
+        </fieldset>
+        <button id="limpar-filtros">Limpar filtros</button>
+    </div>
+
+    <main>
+        <section class="card-container">
+            <!-- <article class="card">
+                <h2>JavaScript</h2>
+                <p>1995</p>
+                <p>JavaScript é uma linguagem de programação</p>
+                <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">Saiba mais</a>
+            </article> -->
+        </section>
+    </main>
+
+    <footer>
+    <footer class="footer">
+        <ul class="footer-links">
+            <li>
+                <a href="https://github.com/WallysonFeitosa" target="_blank">GitHub</a>
+            </li>
+            <li>
+                <a href="https://www.linkedin.com/in/wallyson-feitosa/" target="_blank">LinkedIn</a>
+            </li>
+        </ul>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>

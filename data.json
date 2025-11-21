@@ -1,0 +1,227 @@
+[
+  {
+    "titulo": "Desenvolvedor Frontend Júnior",
+    "descricao": "Estamos em busca de um Desenvolvedor Frontend Júnior para se juntar à nossa equipe. O candidato ideal terá experiência com HTML, CSS e JavaScript, e interesse em aprender novas tecnologias. Será um diferencial ter conhecimento em React.",
+    "link": "https://www.google.com/search?q=vaga+desenvolvedor+frontend+junior",
+    "data_postagem": "2025-11-20",
+    "cidade": "São Paulo",
+    "tipo_trabalho": "Presencial",
+    "nivel": "Júnior"
+  },
+  {
+    "titulo": "Desenvolvedor Backend Júnior (Node.js)",
+    "descricao": "Procuramos um Desenvolvedor Backend Júnior com conhecimento em Node.js para construir e manter nossas APIs. Experiência com bancos de dados NoSQL (MongoDB) e SQL (PostgreSQL) é desejável.",
+    "link": "https://www.google.com/search?q=vaga+desenvolvedor+backend+junior+nodejs",
+    "data_postagem": "2025-11-19",
+    "cidade": "Remoto",
+    "tipo_trabalho": "Remoto",
+    "nivel": "Júnior"
+  },
+  {
+    "titulo": "Desenvolvedor Fullstack Estágio (React/Node.js)",
+    "descricao": "Vaga de estágio para Desenvolvedor Fullstack para trabalhar em projetos inovadores. É necessário estar cursando ensino superior em áreas de tecnologia. Conhecimento em React e Node.js é um plus.",
+    "link": "https://www.google.com/search?q=vaga+desenvolvedor+fullstack+estagio+react+nodejs",
+    "data_postagem": "2025-11-18",
+    "cidade": "Rio de Janeiro",
+    "tipo_trabalho": "Híbrido",
+    "nivel": "Estágio"
+  },
+  {
+    "titulo": "Desenvolvedor Mobile Júnior (React Native)",
+    "descricao": "Oportunidade para Desenvolvedor Mobile Júnior com foco em React Native. O profissional irá atuar no desenvolvimento de aplicativos para iOS e Android.",
+    "link": "https://www.google.com/search?q=vaga+desenvolvedor+mobile+junior+react+native",
+    "data_postagem": "2025-11-17",
+    "cidade": "Belo Horizonte",
+    "tipo_trabalho": "Híbrido",
+    "nivel": "Júnior"
+  },
+  {
+    "titulo": "Desenvolvedor Python Estágio",
+    "descricao": "Buscamos um estagiário de Desenvolvimento Python para atuar com análise de dados e desenvolvimento de scripts de automação. Conhecimento em Pandas e Flask será um diferencial.",
+    "link": "https://www.google.com/search?q=vaga+desenvolvedor+python+estagio",
+    "data_postagem": "2025-11-16",
+    "cidade": "Remoto",
+    "tipo_trabalho": "Remoto",
+    "nivel": "Estágio"
+  },
+  {
+    "titulo": "Desenvolvedor Java Júnior",
+    "descricao": "Vaga para Desenvolvedor Java Júnior para atuar em sistemas legados e novos projetos. Conhecimento em Spring Boot e Maven é essencial.",
+    "link": "https://www.google.com/search?q=vaga+desenvolvedor+java+junior",
+    "data_postagem": "2025-11-15",
+    "cidade": "Curitiba",
+    "tipo_trabalho": "Presencial",
+    "nivel": "Júnior"
+  },
+  {
+    "titulo": "Desenvolvedor C# .NET Júnior",
+    "descricao": "Estamos contratando um Desenvolvedor C# .NET Júnior para trabalhar com aplicações web e desktop. Experiência com ASP.NET e Entity Framework é desejada.",
+    "link": "https://www.google.com/search?q=vaga+desenvolvedor+c%23+.net+junior",
+    "data_postagem": "2025-11-14",
+    "cidade": "Porto Alegre",
+    "tipo_trabalho": "Híbrido",
+    "nivel": "Júnior"
+  },
+  {
+    "titulo": "Desenvolvedor PHP Júnior",
+    "descricao": "Procuramos um Desenvolvedor PHP Júnior para trabalhar com o framework Laravel em projetos de e-commerce. Conhecimento em MySQL e Git é necessário.",
+    "link": "https://www.google.com/search?q=vaga+desenvolvedor+php+junior",
+    "data_postagem": "2025-11-13",
+    "cidade": "Remoto",
+    "tipo_trabalho": "Remoto",
+    "nivel": "Júnior"
+  },
+  {
+    "titulo": "Desenvolvedor Ruby on Rails Estágio",
+    "descricao": "Vaga de estágio para Desenvolvedor Ruby on Rails para atuar em uma startup de tecnologia. O candidato ideal terá paixão por código limpo e boas práticas de desenvolvimento.",
+    "link": "https://www.google.com/search?q=vaga+desenvolvedor+ruby+on+rails+estagio",
+    "data_postagem": "2025-11-12",
+    "cidade": "Florianópolis",
+    "tipo_trabalho": "Presencial",
+    "nivel": "Estágio"
+  },
+  {
+    "titulo": "Desenvolvedor Go Júnior",
+    "descricao": "Buscamos um Desenvolvedor Go Júnior para construir microsserviços de alta performance. Experiência com gRPC e Docker é um grande diferencial.",
+    "link": "https://www.google.com/search?q=vaga+desenvolvedor+go+junior",
+    "data_postagem": "2025-11-11",
+    "cidade": "Remoto",
+    "tipo_trabalho": "Remoto",
+    "nivel": "Júnior"
+  },
+  {
+    "titulo": "Desenvolvedor Swift Estágio (iOS)",
+    "descricao": "Oportunidade de estágio para Desenvolvedor Swift para criar aplicativos para o ecossistema Apple. Conhecimento em SwiftUI e UIKit é desejável.",
+    "link": "https://www.google.com/search?q=vaga+desenvolvedor+swift+estagio",
+    "data_postagem": "2025-11-10",
+    "cidade": "São Paulo",
+    "tipo_trabalho": "Híbrido",
+    "nivel": "Estágio"
+  },
+  {
+    "titulo": "Desenvolvedor Kotlin Júnior (Android)",
+    "descricao": "Vaga para Desenvolvedor Kotlin Júnior para atuar no desenvolvimento de aplicativos Android nativos. Experiência com Jetpack Compose é um plus.",
+    "link": "https://www.google.com/search?q=vaga+desenvolvedor+kotlin+junior",
+    "data_postagem": "2025-11-09",
+    "cidade": "Remoto",
+    "tipo_trabalho": "Remoto",
+    "nivel": "Júnior"
+  },
+  {
+    "titulo": "Desenvolvedor Angular Júnior",
+    "descricao": "Estamos em busca de um Desenvolvedor Angular Júnior para trabalhar em um projeto de grande porte. É necessário ter experiência com TypeScript e RxJS.",
+    "link": "https://www.google.com/search?q=vaga+desenvolvedor+angular+junior",
+    "data_postagem": "2025-11-08",
+    "cidade": "Belo Horizonte",
+    "tipo_trabalho": "Presencial",
+    "nivel": "Júnior"
+  },
+  {
+    "titulo": "Desenvolvedor Vue.js Estágio",
+    "descricao": "Procuramos um estagiário de Desenvolvimento Vue.js para criar interfaces de usuário interativas e reativas. Conhecimento em Vuex e Nuxt.js será um diferencial.",
+    "link": "https://www.google.com/search?q=vaga+desenvolvedor+vue.js+estagio",
+    "data_postagem": "2025-11-07",
+    "cidade": "Remoto",
+    "tipo_trabalho": "Remoto",
+    "nivel": "Estágio"
+  },
+  {
+    "titulo": "Cientista de Dados Júnior",
+    "descricao": "Vaga para Cientista de Dados Júnior para trabalhar com análise preditiva e machine learning. É necessário ter conhecimento em Python, R e SQL.",
+    "link": "https://www.google.com/search?q=vaga+cientista+de+dados+junior",
+    "data_postagem": "2025-11-06",
+    "cidade": "São Paulo",
+    "tipo_trabalho": "Híbrido",
+    "nivel": "Júnior"
+  },
+  {
+    "titulo": "Engenheiro de Dados Estágio",
+    "descricao": "Buscamos um estagiário de Engenharia de Dados para construir e manter pipelines de dados. Experiência com Spark, Hadoop e Airflow é desejável.",
+    "link": "https://www.google.com/search?q=vaga+engenheiro+de+dados+estagio",
+    "data_postagem": "2025-11-05",
+    "cidade": "Remoto",
+    "tipo_trabalho": "Remoto",
+    "nivel": "Estágio"
+  },
+  {
+    "titulo": "Analista de QA Júnior",
+    "descricao": "Oportunidade para Analista de QA Júnior para garantir a qualidade dos nossos produtos. O candidato ideal terá experiência com testes manuais e automatizados.",
+    "link": "https://www.google.com/search?q=vaga+analista+de+qa+junior",
+    "data_postagem": "2025-11-04",
+    "cidade": "Curitiba",
+    "tipo_trabalho": "Presencial",
+    "nivel": "Júnior"
+  },
+  {
+    "titulo": "Desenvolvedor WordPress Júnior",
+    "descricao": "Vaga para Desenvolvedor WordPress Júnior para criar e manter sites para nossos clientes. Conhecimento em PHP, HTML, CSS e JavaScript é essencial.",
+    "link": "https://www.google.com/search?q=vaga+desenvolvedor+wordpress+junior",
+    "data_postagem": "2025-11-03",
+    "cidade": "Remoto",
+    "tipo_trabalho": "Remoto",
+    "nivel": "Júnior"
+  },
+  {
+    "titulo": "Desenvolvedor Elixir Estágio",
+    "descricao": "Estamos contratando um estagiário de Desenvolvimento Elixir para trabalhar com sistemas distribuídos e de alta concorrência. Experiência com Phoenix é um plus.",
+    "link": "https://www.google.com/search?q=vaga+desenvolvedor+elixir+estagio",
+    "data_postagem": "2025-11-02",
+    "cidade": "Remoto",
+    "tipo_trabalho": "Remoto",
+    "nivel": "Estágio"
+  },
+  {
+    "titulo": "Desenvolvedor Rust Júnior",
+    "descricao": "Procuramos um Desenvolvedor Rust Júnior para atuar no desenvolvimento de sistemas de baixo nível e alta performance. Paixão por programação de sistemas é fundamental.",
+    "link": "https://www.google.com/search?q=vaga+desenvolvedor+rust+junior",
+    "data_postagem": "2025-11-01",
+    "cidade": "Remoto",
+    "tipo_trabalho": "Remoto",
+    "nivel": "Júnior"
+  },
+  {
+    "titulo": "Desenvolvedor Salesforce Júnior",
+    "descricao": "Vaga para Desenvolvedor Salesforce Júnior para customizar e desenvolver soluções na plataforma Salesforce. Conhecimento em Apex e Lightning Web Components é desejável.",
+    "link": "https://www.google.com/search?q=vaga+desenvolvedor+salesforce+junior",
+    "data_postagem": "2025-10-31",
+    "cidade": "São Paulo",
+    "tipo_trabalho": "Híbrido",
+    "nivel": "Júnior"
+  },
+  {
+    "titulo": "Desenvolvedor ABAP/SAP Estágio",
+    "descricao": "Buscamos um estagiário de Desenvolvimento ABAP/SAP para atuar em projetos de implementação e manutenção de sistemas SAP. Certificação SAP é um diferencial.",
+    "link": "https://www.google.com/search?q=vaga+desenvolvedor+abap+sap+estagio",
+    "data_postagem": "2025-10-30",
+    "cidade": "Remoto",
+    "tipo_trabalho": "Remoto",
+    "nivel": "Estágio"
+  },
+  {
+    "titulo": "Analista de Segurança da Informação Júnior",
+    "descricao": "Oportunidade para Analista de Segurança da Informação Júnior para monitorar e responder a incidentes de segurança. Conhecimento em redes e sistemas operacionais é essencial.",
+    "link": "https://www.google.com/search?q=vaga+analista+de+seguran%C3%A7a+da+informa%C3%A7%C3%A3o+junior",
+    "data_postagem": "2025-10-29",
+    "cidade": "Brasília",
+    "tipo_trabalho": "Presencial",
+    "nivel": "Júnior"
+  },
+  {
+    "titulo": "DBA Júnior (SQL Server)",
+    "descricao": "Vaga para DBA Júnior com foco em SQL Server para administrar e otimizar nossos bancos de dados. Experiência com T-SQL e otimização de queries é desejável.",
+    "link": "https://www.google.com/search?q=vaga+dba+junior+sql+server",
+    "data_postagem": "2025-10-28",
+    "cidade": "Remoto",
+    "tipo_trabalho": "Remoto",
+    "nivel": "Júnior"
+  },
+  {
+    "titulo": "DevOps Estágio",
+    "descricao": "Estamos em busca de um estagiário de DevOps para nos ajudar a automatizar nossa infraestrutura e processos de CI/CD. Conhecimento em AWS, Docker e Jenkins é um plus.",
+    "link": "https://www.google.com/search?q=vaga+devops+estagio",
+    "data_postagem": "2025-10-27",
+    "cidade": "Remoto",
+    "tipo_trabalho": "Remoto",
+    "nivel": "Estágio"
+  }
+]
